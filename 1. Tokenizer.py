@@ -7,3 +7,6 @@ sentences = sent_tokenize(text)
 
 print(words)
 print(sentences)
+
+['NLTK', 'is', 'a', 'powerful', 'Python', 'library', 'for', 'natural', 'language', 'processing', '.']
+['NLTK is a powerful Python library for natural language processing.']
